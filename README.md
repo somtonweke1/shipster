@@ -12,10 +12,6 @@
 - Compressing scope
 - Enforcing throughput
 
-**Core thesis:**
-> Your failures are not cognitive. They are **constraint failures**.
-> Therefore the product **removes choice, compresses scope, and enforces shipping**.
-
 ---
 
 ## Enforcement Rules
