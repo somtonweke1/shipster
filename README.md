@@ -6,7 +6,7 @@
 
 ## What is FORCE?
 
-**FORCE** is not a productivity app. It is an **execution kernel** that converts inconsistent shippers into predictable ones by:
+**FORCE** is an **execution kernel** that converts inconsistent shippers into predictable ones by:
 
 - Removing choice
 - Compressing scope
