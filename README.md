@@ -1,6 +1,6 @@
 # FORCE / v1
 
-**Execution enforcement system for high-cognition, low-reliability operators.**
+**Execution enforcement system for low-reliability operators.**
 
 ---
 
