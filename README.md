@@ -147,14 +147,9 @@ After using FORCE consistently:
 
 ---
 
-## Brutal Truth
 
 **This product will feel constraining, boring, and disrespectful to your intelligence.**
 
-That is the point.
-
-You do not need inspiration.
-You need **forced throughput**.
 
 ---
 
