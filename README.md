@@ -135,15 +135,7 @@ force/
 
 ---
 
-## What You Get
 
-After using FORCE consistently:
-
-✓ **Execution reliability** increases
-✓ **Public artifact trail** accumulates
-✓ **Reputation** shifts from "smart" → "useful"
-✓ **Identity** detaches from performance volatility
-✓ **Optionality** collapses into leverage
 
 ---
 
